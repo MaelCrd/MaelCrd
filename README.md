@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Hi, I'm a general engineering student in 4th year at École Nationale d'Ingénieurs de Brest. My favorite fields are software development, IoT and machine learning. I am currently looking for an engineering assistant internship abroad.</p>
+Hi, I'm a general engineering student in 4th year at **[Brest National School
+Of Engineering (ENIB)](https://www.enib.fr)**. My favorite fields are software development, IoT and machine learning. I am currently looking for an engineering assistant internship abroad.
 
 ###
 
@@ -87,8 +88,6 @@
 <p align="left"></p>
 
 ###
-
-<br>
 
 <h1 align="left">📭 Contact</h2>
 
