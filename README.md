@@ -1,4 +1,4 @@
-<h2 align="left">🧑 About me</h2>
+<h1 align="left">🧑 About me</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">📚 Skills</h2>
+<h1 align="left">📚 Skills</h1>
 
 ###
 
@@ -88,7 +88,9 @@
 
 ###
 
-<h2 align="left">📭 Contact</h2>
+<br>
+
+<h1 align="left">📭 Contact</h2>
 
 ###
 
