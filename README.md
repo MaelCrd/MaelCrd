@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Étudiant ingénieur généraliste en <b>5ème année</b> à l'<b><a href="https://www.enib.fr">École Nationale d'Ingénieurs de Brest (ENIB)<a/></b>, mes domaines favoris sont le <b>développement logiciel</b>, l'<b>IoT</b> et le <b>machine learning</b>.<br>Je suis actuellement à la recherche d'un <b>stage de fin d'études</b> en France dans un de ces domaines.</p>
+<p align="left">Étudiant ingénieur généraliste en <b>5ème année</b> à l'<b><a href="https://www.enib.fr">École Nationale d'Ingénieurs de Brest (ENIB)<a/></b> et en <b>maîtrise en informatique (cybersécurité)</b> à l'<b><a href="https://www.uqac.ca/">Université du Québec à Chicoutimi (UQAC)<a/></b>, mes domaines favoris sont le <b>développement logiciel</b>, l'<b>IoT</b> et le <b>machine learning</b>.<br>Je suis actuellement à la recherche d'un <b>stage de fin d'études</b> en France dans un de ces domaines.</p>
 
 ###
 
